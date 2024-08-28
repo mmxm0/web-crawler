@@ -29,7 +29,7 @@ Um web crawler básico capaz de acessar uma URL, baixar o conteúdo da página e
 Clone o projeto
 
 ```bash
-  git clone [https://link-para-o-projeto](https://github.com/mmxm0/web-crawler.git)
+  git clone https://github.com/mmxm0/web-crawler.git
 ```
 
 Entre no diretório do projeto
