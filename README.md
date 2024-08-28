@@ -29,24 +29,24 @@ Um web crawler básico capaz de acessar uma URL, baixar o conteúdo da página e
 Clone o projeto
 
 ```bash
-  git clone https://link-para-o-projeto
+  git clone [https://link-para-o-projeto](https://github.com/mmxm0/web-crawler.git)
 ```
 
 Entre no diretório do projeto
 
 ```bash
-  cd my-project
+  cd web-crawler
 ```
 
 Instale as dependências
 
 ```bash
-  npm install
+  npm i
 ```
 
 Inicie o servidor
 
 ```bash
-  npm run start
+  npm run dev
 ```
 
